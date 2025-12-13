@@ -1,0 +1,20 @@
+﻿# Build outputs
+bin/
+obj/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# User-specific files
+*.user
+*.rsuser
+*.userosscache
+*.suo
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Dotnet tooling
+.artifacts/
